@@ -1,7 +1,7 @@
 name: CA Hometraders
 favicon: null
-layout_spectrum: 0.9323428249917924
-typography_spectrum: 0.27574992063455284
+layout_spectrum: 0.75539
+typography_spectrum: 0.73969
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8771455732639879
-  lightness: 0.84208734636195
-  saturation: 0.06616932176984847
-  rhythmicContrast: 0.1345094833523035
+    - '#ffffff'
+    - '#d72826'
+    - '#191919'
+    - '#6c696b'
+    - '#db8487'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
